@@ -21502,7 +21502,7 @@
   {
    "columns": 1,
    "firstgid": 1,
-   "image": "tilesets/techtopia_tiles_wall.png",
+   "image": "https://raw.githubusercontent.com/techtopiaw/techtopia-school-map/main/tilesets/techtopia_tiles_wall.png",
    "imageheight": 32,
    "imagewidth": 32,
    "margin": 0,
@@ -21517,7 +21517,7 @@
   {
    "columns": 1,
    "firstgid": 2,
-   "image": "tilesets/techtopia_tiles_floor.png",
+   "image": "https://raw.githubusercontent.com/techtopiaw/techtopia-school-map/main/tilesets/techtopia_tiles_floor.png",
    "imageheight": 32,
    "imagewidth": 32,
    "margin": 0,
@@ -21532,7 +21532,7 @@
   {
    "columns": 1,
    "firstgid": 3,
-   "image": "tilesets/techtopia_sprite_student_desk.png",
+   "image": "https://raw.githubusercontent.com/techtopiaw/techtopia-school-map/main/tilesets/techtopia_sprite_student_desk.png",
    "imageheight": 32,
    "imagewidth": 32,
    "margin": 0,
@@ -21547,7 +21547,7 @@
   {
    "columns": 1,
    "firstgid": 4,
-   "image": "tilesets/techtopia_sprite_teacher_desk.png",
+   "image": "https://raw.githubusercontent.com/techtopiaw/techtopia-school-map/main/tilesets/techtopia_sprite_teacher_desk.png",
    "imageheight": 32,
    "imagewidth": 32,
    "margin": 0,
@@ -21562,7 +21562,7 @@
   {
    "columns": 1,
    "firstgid": 5,
-   "image": "tilesets/techtopia_sprite_door.png",
+   "image": "https://raw.githubusercontent.com/techtopiaw/techtopia-school-map/main/tilesets/techtopia_sprite_door.png",
    "imageheight": 32,
    "imagewidth": 32,
    "margin": 0,
